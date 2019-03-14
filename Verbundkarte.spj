@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stitchProject version="2.0" cameraMotion="automatic" computedCameraMotion="rigidScale" projection="perspective">
+  <vignetteCorrection redFactor="0.0161290318" greenFactor="0.0161290318" blueFactor="0.0161290318" globalIntensityScale="1" />
+  <structuredPanoramaSettings startingCorner="TopLeft" primaryDirection="Vertical" primaryDirectionImageCount="11" movementMethod="Zigzag" angularRange="Non360" horizontalOverlap="20" verticalOverlap="30" seamOverlap="20" featureMatchingSearchRadius="10" />
+  <sourceImages>
+    <sourceImage filePath="data\vk-0-0.jpg">
+      <cameraPose rotation="0.0029977573821469441" angleUnit="degrees" scale="0.99976243944422327" translationX="-1.6050416007779393" translationY="5.7373224166448678" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-0-1.jpg">
+      <cameraPose rotation="0.00048202742380503533" angleUnit="degrees" scale="0.9995244792750585" translationX="-1.604832203582262" translationY="4.5900940114432505" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-0-10.jpg">
+      <cameraPose rotation="-0.0023675950876329691" angleUnit="degrees" scale="0.99978149685755691" translationX="-1.6053743656694175" translationY="3.4427608059788515" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-0-2.jpg">
+      <cameraPose rotation="0.00015470608140866757" angleUnit="degrees" scale="1.0001782050374726" translationX="-1.6061132204604667" translationY="2.2951417895777384" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-0-3.jpg">
+      <cameraPose rotation="0.0089320154430703718" angleUnit="degrees" scale="0.99991183050750665" translationX="-1.6060228623576518" translationY="1.1474244352525145" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-0-4.jpg">
+      <cameraPose rotation="-7.6340285262645432E-05" angleUnit="degrees" scale="0.99980544298915264" translationX="-1.6059003640553935" translationY="-7.1928196376080944E-05" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-0-5.jpg">
+      <cameraPose rotation="-0.0011775370009286985" angleUnit="degrees" scale="0.99984392806843769" translationX="-1.6059210327115916" translationY="-1.1475513120075318" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-0-6.jpg">
+      <cameraPose rotation="0.0014160643083436189" angleUnit="degrees" scale="0.99987550087781918" translationX="-1.6059095666636354" translationY="-2.2950566116713857" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-0-7.jpg">
+      <cameraPose rotation="0.0023814539855881835" angleUnit="degrees" scale="0.99979683549187259" translationX="-1.6058926725119882" translationY="-3.4425199636438926" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-0-8.jpg">
+      <cameraPose rotation="0.0039624077350102864" angleUnit="degrees" scale="0.99972529880296657" translationX="-1.6058270093116982" translationY="-4.5899233688949108" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-0-9.jpg">
+      <cameraPose rotation="0.0033059701152534761" angleUnit="degrees" scale="0.99970749227115741" translationX="-1.6057625065268293" translationY="-5.7372148668092056" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-1-0.jpg">
+      <cameraPose rotation="0.0024197337989501767" angleUnit="degrees" scale="0.999731208300411" translationX="0.00059682583576318494" translationY="5.7373001901719514" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-1-1.jpg">
+      <cameraPose rotation="0.0003409048746763634" angleUnit="degrees" scale="0.99977866352864453" translationX="0.00069487816163583515" translationY="4.5901190780142604" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-1-10.jpg">
+      <cameraPose rotation="-0.0068945418281640717" angleUnit="degrees" scale="0.99970146902694512" translationX="0.00036042807546130776" translationY="3.4426265947480732" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-1-2.jpg">
+      <cameraPose rotation="-0.0010867063752889471" angleUnit="degrees" scale="0.99998031329950932" translationX="4.7926513196046777E-05" translationY="2.2951514252256322" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-1-3.jpg">
+      <cameraPose rotation="-0.0014429261710113403" angleUnit="degrees" scale="0.999968122305643" translationX="1.9560862612424693E-05" translationY="1.1475928809339624" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-1-4.jpg">
+      <cameraPose rotation="0" angleUnit="degrees" scale="1" translationX="0" translationY="0" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-1-5.jpg">
+      <cameraPose rotation="-0.0040125432153288671" angleUnit="degrees" scale="0.99982411614645839" translationX="-3.549459391426317E-05" translationY="-1.1476325086801524" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-1-6.jpg">
+      <cameraPose rotation="0.000308624567573544" angleUnit="degrees" scale="0.99982390421018619" translationX="-7.5799994450523119E-05" translationY="-2.2950252913047016" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-1-7.jpg">
+      <cameraPose rotation="-0.00082193664227972181" angleUnit="degrees" scale="0.99980219072124465" translationX="-8.2027141167702032E-05" translationY="-3.4424525320375383" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-1-8.jpg">
+      <cameraPose rotation="-0.0014241412045234408" angleUnit="degrees" scale="0.99977377228410724" translationX="-0.00011398653346519037" translationY="-4.5898758546240446" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-1-9.jpg">
+      <cameraPose rotation="-0.0013344159799839955" angleUnit="degrees" scale="0.99971363335698327" translationX="-0.0001239238772152352" translationY="-5.7372077509649966" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-2-0.jpg">
+      <cameraPose rotation="-0.011886629481579062" angleUnit="degrees" scale="0.99977132598100626" translationX="1.6063506972485482" translationY="5.7371355817485" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-2-1.jpg">
+      <cameraPose rotation="-0.0070146054113357217" angleUnit="degrees" scale="0.99975490583261684" translationX="1.6061551292706533" translationY="4.5897085658485439" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-2-10.jpg">
+      <cameraPose rotation="-0.0067630262587526089" angleUnit="degrees" scale="0.99984090315611462" translationX="1.6061969325555669" translationY="3.4425054100886614" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-2-2.jpg">
+      <cameraPose rotation="-0.0065201998529406989" angleUnit="degrees" scale="0.99987298956847592" translationX="1.606076017826543" translationY="2.295049220159584" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-2-3.jpg">
+      <cameraPose rotation="-0.0052171745530407267" angleUnit="degrees" scale="0.999897871389773" translationX="1.6059747915072213" translationY="1.1474899239284828" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-2-4.jpg">
+      <cameraPose rotation="-0.0083073625430401081" angleUnit="degrees" scale="0.99986434640278266" translationX="1.6058738046318846" translationY="-3.6385545534728392E-05" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-2-5.jpg">
+      <cameraPose rotation="-0.002279854996964422" angleUnit="degrees" scale="0.999799614550167" translationX="1.6058502053440704" translationY="-1.1476084792327261" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-2-6.jpg">
+      <cameraPose rotation="-0.0010671187979592559" angleUnit="degrees" scale="0.99982446210119547" translationX="1.6057552769101322" translationY="-2.2950607550751774" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-2-7.jpg">
+      <cameraPose rotation="2.5267413962915891E-06" angleUnit="degrees" scale="0.999806199233328" translationX="1.605746334526204" translationY="-3.4424631973985513" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-2-8.jpg">
+      <cameraPose rotation="0.00022371272243380106" angleUnit="degrees" scale="0.99979952456221566" translationX="1.6056983032016061" translationY="-4.5899021705588554" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-2-9.jpg">
+      <cameraPose rotation="-0.0051236891807064" angleUnit="degrees" scale="0.99974959309997979" translationX="1.6055980947972803" translationY="-5.73731620826642" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-3-0.jpg">
+      <cameraPose rotation="-0.00217303719002353" angleUnit="degrees" scale="0.99974653163657334" translationX="3.2119319065259568" translationY="5.7369015887913033" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-3-1.jpg">
+      <cameraPose rotation="-0.0023051017902138049" angleUnit="degrees" scale="0.99974236012380135" translationX="3.2118771886681086" translationY="4.5895657551008107" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-3-10.jpg">
+      <cameraPose rotation="-0.0070285338659275814" angleUnit="degrees" scale="0.99976633544215687" translationX="3.2120077914942646" translationY="3.4423031372718693" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-3-2.jpg">
+      <cameraPose rotation="0.00076232318795795625" angleUnit="degrees" scale="0.99987901336634766" translationX="3.2119612743755921" translationY="2.2949364611386347" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-3-3.jpg">
+      <cameraPose rotation="-0.0016262553310339696" angleUnit="degrees" scale="0.99996014132055278" translationX="3.2119386124335487" translationY="1.1473864637695075" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-3-4.jpg">
+      <cameraPose rotation="-0.0043109801438224659" angleUnit="degrees" scale="0.99980863407198051" translationX="3.2117452483437003" translationY="-0.00020172541660998244" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-3-5.jpg">
+      <cameraPose rotation="-0.002602715406200076" angleUnit="degrees" scale="0.99981500004902379" translationX="3.2116915883078829" translationY="-1.1476600929675835" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-3-6.jpg">
+      <cameraPose rotation="-0.0020031286043038559" angleUnit="degrees" scale="0.999862818311766" translationX="3.2116394616381116" translationY="-2.2951257115483759" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-3-7.jpg">
+      <cameraPose rotation="-0.0038202176497403304" angleUnit="degrees" scale="0.99973648060704845" translationX="3.2115663490225441" translationY="-3.4425362760832816" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-3-8.jpg">
+      <cameraPose rotation="-0.0078799996608439529" angleUnit="degrees" scale="0.99969199752001725" translationX="3.2114255234968097" translationY="-4.5899023029657382" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-3-9.jpg">
+      <cameraPose rotation="-0.0039410256068638048" angleUnit="degrees" scale="0.99973211048743815" translationX="3.2113242572545748" translationY="-5.7373036817352645" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-4-0.jpg">
+      <cameraPose rotation="-0.0032846793048064483" angleUnit="degrees" scale="0.99967399851694683" translationX="4.817593028451272" translationY="5.7367950971011972" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-4-1.jpg">
+      <cameraPose rotation="-0.00282974064932952" angleUnit="degrees" scale="0.9997076397805118" translationX="4.8175525029373629" translationY="4.5894695468688322" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-4-10.jpg">
+      <cameraPose rotation="-0.0048444680537789546" angleUnit="degrees" scale="0.99970624042684053" translationX="4.817745844573321" translationY="3.4421665527142431" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-4-2.jpg">
+      <cameraPose rotation="-0.010903827777803908" angleUnit="degrees" scale="0.99991651138616022" translationX="4.81787406157711" translationY="2.2947631161465813" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-4-3.jpg">
+      <cameraPose rotation="-0.0083399993174494164" angleUnit="degrees" scale="0.99983367675221368" translationX="4.8177524040357476" translationY="1.1472069527238615" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-4-4.jpg">
+      <cameraPose rotation="-0.0018562086423977975" angleUnit="degrees" scale="0.999860764368712" translationX="4.8176136084287693" translationY="-0.00030116468717530931" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-4-5.jpg">
+      <cameraPose rotation="-0.0036830439633383019" angleUnit="degrees" scale="0.9998226238550858" translationX="4.81754352530474" translationY="-1.1477425422320628" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-4-6.jpg">
+      <cameraPose rotation="-0.0046045789693157533" angleUnit="degrees" scale="0.99978595473984233" translationX="4.8174442375845006" translationY="-2.2952072072351215" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-4-7.jpg">
+      <cameraPose rotation="-0.0056644977326463352" angleUnit="degrees" scale="0.99981936054082987" translationX="4.8173212493351736" translationY="-3.4426730819227509" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-4-8.jpg">
+      <cameraPose rotation="-0.0074926797272024635" angleUnit="degrees" scale="0.999793089087225" translationX="4.8171781701095515" translationY="-4.5900765161763557" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-4-9.jpg">
+      <cameraPose rotation="-0.0069063450402331878" angleUnit="degrees" scale="0.99973414115566772" translationX="4.8170167499904331" translationY="-5.7374485709971479" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-5-0.jpg">
+      <cameraPose rotation="-0.00011573904034941937" angleUnit="degrees" scale="0.999721550320554" translationX="6.4232395713605488" translationY="5.7367279227980541" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-5-1.jpg">
+      <cameraPose rotation="-3.4675459553022544E-05" angleUnit="degrees" scale="0.99971475653697117" translationX="6.4232482467059322" translationY="4.5893959048679633" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-5-10.jpg">
+      <cameraPose rotation="-0.0049688955563220467" angleUnit="degrees" scale="0.99967019280938507" translationX="6.4233977798319284" translationY="3.4420266905527117" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-5-2.jpg">
+      <cameraPose rotation="-0.0093183847761365186" angleUnit="degrees" scale="0.99991332901956842" translationX="6.4238794039617826" translationY="2.2945206833331597" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-5-3.jpg">
+      <cameraPose rotation="-0.0074413976536865153" angleUnit="degrees" scale="0.99993766391015371" translationX="6.4237127211643736" translationY="1.1469512471777226" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-5-4.jpg">
+      <cameraPose rotation="-0.00672901931915702" angleUnit="degrees" scale="0.999885679821277" translationX="6.4235833729043845" translationY="-0.00042509117141042996" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-5-5.jpg">
+      <cameraPose rotation="-0.0080482298261061666" angleUnit="degrees" scale="0.99985508812894786" translationX="6.4234222414958051" translationY="-1.1479280530631146" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-5-6.jpg">
+      <cameraPose rotation="-0.0092528522402814013" angleUnit="degrees" scale="0.999836679761349" translationX="6.4232136917136948" translationY="-2.2953646302000181" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-5-7.jpg">
+      <cameraPose rotation="-0.010188532339524721" angleUnit="degrees" scale="0.99978579607844742" translationX="6.4230132513679452" translationY="-3.4427940208721548" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-5-8.jpg">
+      <cameraPose rotation="-0.0057917267768297209" angleUnit="degrees" scale="0.99986833760833849" translationX="6.4228828369782356" translationY="-4.5902236325816688" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="data\vk-5-9.jpg">
+      <cameraPose rotation="-0.0071819895099428247" angleUnit="degrees" scale="0.999809060999915" translationX="6.422729082695759" translationY="-5.7376618749044237" tolerance="4" />
+    </sourceImage>
+  </sourceImages>
+</stitchProject>

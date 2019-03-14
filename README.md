@@ -19,6 +19,7 @@ Aus urheberrechtlichen Gründen ist die Karte nur interaktiv zur Tabellensuche nu
 
 * [Wget](https://www.gnu.org/software/wget/) um Daten herunterzuladen
 * [ImageMagick](https://www.imagemagick.org/) um Bilder zu verarbeiten
+* Alternativ [Microsoft Image Composite Editor](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) um Bilder zu verarbeiten
 * [libvips](https://libvips.github.io/libvips/) um Kachel-Pyramide zu erstellen
 * [Leaflet](https://leafletjs.com/) als Web Mapping Client
 
@@ -62,9 +63,24 @@ Gesamtes Bild:
 magick images/t-0.jpg images/t-1.jpg images/t-2.jpg images/t-3.jpg images/t-4.jpg images/t-5.jpg images/t-6.jpg images/t-7.jpg images/t-8.jpg images/t-9.jpg images/t-10.jpg -append data/vk.jpg
 ```
 
+# Kartenbild erstellen - alternativer Ansatz
+
+Statt ImageMagick kann man die Bilder mit dem [Microsoft Image Composite Editor](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/)
+schneiden und zusammenfügen
+
+* New Panorama - From Images
+* Alle `data/vk-X-Y.jpg` importieren
+* Structured Panorama
+* Initial corner and direction
+  * Von links oben nach unten
+  * Rows: 11, Columns: 6
+  * Image order: Zigzag
+* Stitch
+* Crop
+* Export
+
+Siehe [Verbundkarte.spj](Verbundkarte.spj).
+
 # Kartenklien erstellen
 
 Siehe [European Inland Waterways as a Slippy Map](https://github.com/fossgis2019/European-Inland-Waterways) für eine Anleitung.
-
-
-
